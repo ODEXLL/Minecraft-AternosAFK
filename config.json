@@ -1,6 +1,6 @@
 {
 	"ip":"subscribeHH9b.aternos.me",
 	"port": "32366",
-	"name": "subscribe_to_odex",
+	"name": "subscribe",
 	"auto-night-skip":"true"
 }
